@@ -1,4 +1,4 @@
- -- 1. Find the country that start with Y
+-- 1. Find the country that start with Y
 SELECT NAME
 FROM   world
 WHERE  NAME LIKE 'y%'
