@@ -1,4 +1,4 @@
- -- 1. Show the total population of the world. 
+-- 1. Show the total population of the world. 
 SELECT Sum(population)
 FROM   world
 
