@@ -1,4 +1,4 @@
- -- 1. Observe the result of running this SQL command to show the name, continent and population of all countries. 
+-- 1. Observe the result of running this SQL command to show the name, continent and population of all countries. 
 SELECT NAME,
        continent,
        population
