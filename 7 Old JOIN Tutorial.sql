@@ -1,4 +1,4 @@
- -- https://sqlzoo.net/wiki/Old_JOIN_Tutorial
+-- https://sqlzoo.net/wiki/Old_JOIN_Tutorial
 -- 1. Show the athelete (who) and the country name for medal winners in 2000. 
 SELECT who,
        NAME
